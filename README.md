@@ -1,2 +1,2 @@
 # messaging
-Messaging examples
+Messaging examples.
